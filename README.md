@@ -1,5 +1,5 @@
-[hub]: https://hub.docker.com/r/andruida/fivem
-[git]: https://github.com/Andruida/fivem
+[hub]: https://hub.docker.com/repository/docker/netwarsuk/fivem-docker
+[git]: https://github.com/NetWarsUK/fivem-docker
 
 # [NetWarsUK/fivem-docker][hub]
 
