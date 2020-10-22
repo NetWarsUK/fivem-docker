@@ -1,7 +1,9 @@
 [hub]: https://hub.docker.com/r/andruida/fivem
 [git]: https://github.com/Andruida/fivem
 
-# [andruida/fivem][hub]
+# [NetWarsUK/fivem-docker][hub]
+
+This image is modified for use on NetWarsUK.com servers.
 
 This docker image allows you to run a server for FiveM, a modded GTA multiplayer program.
 This image also includes [txAdmin](https://github.com/tabarra/txAdmin), an in-browser server management software.
@@ -58,3 +60,4 @@ See [issue #3](https://github.com/spritsail/fivem/issues/3)
 
  - This image is based on the [spritsail/fivem](https://hub.docker.com/r/spritsail/fivem) image. Thanks to **Spritsail** !
  - Thanks to **tabarra** as the creator and maintainer of the [txAdmin](https://github.com/tabarra/txAdmin) repository!
+ - Thanks to andruida for the txAdmin Modification in to the docker image
